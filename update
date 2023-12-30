@@ -1,0 +1,6 @@
+svn up .
+svn up flotsam_XmlRpcGroup
+svn up jbxl
+svn up opensim.helper
+svn up opensim.modules
+svn up opensim.phplib
